@@ -1,0 +1,10 @@
+<svg id="Edit_Icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_47773" data-name="Rectangle 47773" width="30" height="30" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Edit_Icon-2" data-name="Edit_Icon" clip-path="url(#clip-path)">
+    <path id="Union_630" data-name="Union 630" d="M.019,19.323l1.6-5.483,4.524,4.525-5.483,1.6A.45.45,0,0,1,.478,20,.522.522,0,0,1,.019,19.323Zm2.554-6.745,9.372-9.373L16.837,8.1,7.465,17.472ZM13.06,2.022l1.7-1.7a1.031,1.031,0,0,1,1.49,0l3.407,3.407a1.03,1.03,0,0,1,0,1.492l-1.7,1.7Z" transform="translate(5 5)" fill="#fff"/>
+  </g>
+</svg>
